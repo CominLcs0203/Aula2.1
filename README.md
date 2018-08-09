@@ -1,4 +1,5 @@
 # Aula2.1
 Travis Fimmel
-Kit Harington
+Kit Laguerta
 Emilia Clarke
+Bacon
